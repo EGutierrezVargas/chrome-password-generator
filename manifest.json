@@ -1,0 +1,16 @@
+{
+    "name": "Password Generator",
+    "description": "Password Generator from Google Chrome",
+    "version": "1.0",
+    "manifest_version": 3,
+    "author": "Edinson Gutierrez Vargas | egutierrez.9615@gmail.com",
+    "action":{
+        "default_popup": "popup.html",
+        "default_title": "Password Generator"
+    },
+    "permissions": [
+        "tabs",
+        "bookmarks",
+        "unlimitedStorage"
+      ]
+}
